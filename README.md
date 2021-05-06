@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Automating Infrastructure
 - 🤔 I’m looking for help with Unique idea for youtube Educational Content
 - 💬 Ask me about Openshift, Python, shellScript, Infrastructure
-- 📫 How to reach me: Twitter : @meadityasingh 
+- 📫 How to reach me: [Twitter - @meadityasingh](https://twitter.com/adisingh4321)
 - 😄 Pronouns: He/His
-- 
 
